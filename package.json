@@ -15,7 +15,7 @@
     "deploy-poa": "graph deploy --node https://api.thegraph.com/deploy/ --ipfs https://api.thegraph.com/ipfs/ blocklytics/poa-core-blocks"
   },
   "dependencies": {
-    "@graphprotocol/graph-cli": "^0.64.1",
+    "@graphprotocol/graph-cli": "^0.93.1",
     "@graphprotocol/graph-ts": "^0.32.0"
   }
 }
