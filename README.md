@@ -9,6 +9,6 @@ graph build
 graph create quai-blocks --node https://graph.quai.network   
 
 graph deploy \
-  --node https://graph.quai.network \
+  --node https://graph.quai.network/deploy \
   --ipfs https://ipfs.qu.ai \
   quai-blocks
